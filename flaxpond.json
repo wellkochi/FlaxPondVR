@@ -1,0 +1,792 @@
+{
+    "spheres": [
+        {
+            "leftImg": "flaxpond/fp_lobby.jpg",
+            "markers": [
+                {
+                    "text": "You Found Wolfie!",
+                    "type": "info",
+                    "x": 6.861026884695873,
+                    "y": -6.861026872381038,
+                    "z": 2.4192189532875523
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": 4.811959239185206,
+                    "y": 8.681004239003531,
+                    "z": -1.2186934326658498
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": 4.841452065752118,
+                    "y": 8.734210706415528,
+                    "z": -0.5233595618319595
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": 4.847357824569628,
+                    "y": 8.744864977322864,
+                    "z": 0.17452406417343258
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": -7.7702759659373815,
+                    "y": -6.292245446913231,
+                    "z": 0.17452406417343258
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": 3.0826424587182126,
+                    "y": -9.487397899840424,
+                    "z": 0.6975647366454645
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": 3.090169957405858,
+                    "y": -9.510565158514307,
+                    "z": -0.0
+                },
+                {
+                    "text": "Click the links to visit any part of the lab",
+                    "type": "info",
+                    "x": 1.794896736965411e-08,
+                    "y": 0.0,
+                    "z": 10.0
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 1.7364817923815528,
+                    "y": 0.0,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": 1.5038373459310275,
+                    "y": 0.8682408952910323,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": 0.8682408979902646,
+                    "y": 1.5038373443726252,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": 3.1168055029454974e-09,
+                    "y": 1.7364817923815528,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -0.8682408925918,
+                    "y": 1.50383734748943,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -1.5038373428142224,
+                    "y": 0.868240900689497,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": -1.7364817923815528,
+                    "y": 6.233611005890995e-09,
+                    "z": 9.848077527351588
+                }
+            ]
+        },
+        {
+            "leftImg": "flaxpond/fp_wetlab1.jpg",
+            "markers": [
+                {
+                    "text": "You Found Wolfie!",
+                    "type": "info",
+                    "x": 9.402558216932373,
+                    "y": -2.6961401797869424,
+                    "z": 2.079116905836695
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 2.588190465473015,
+                    "y": 9.659258259019404,
+                    "z": -0.0
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": 1.9034419579770203,
+                    "y": 9.792359886707665,
+                    "z": 0.6975647366454645
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -7.542498297215564,
+                    "y": 6.556593776479506,
+                    "z": 0.34899496662638685
+                },
+                {
+                    "text": "Click the links to visit any part of the lab",
+                    "type": "info",
+                    "x": 1.794896736965411e-08,
+                    "y": 0.0,
+                    "z": 10.0
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 1.7364817923815528,
+                    "y": 0.0,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": 1.5038373459310275,
+                    "y": 0.8682408952910323,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": 0.8682408979902646,
+                    "y": 1.5038373443726252,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": 3.1168055029454974e-09,
+                    "y": 1.7364817923815528,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -0.8682408925918,
+                    "y": 1.50383734748943,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -1.5038373428142224,
+                    "y": 0.868240900689497,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": -1.7364817923815528,
+                    "y": 6.233611005890995e-09,
+                    "z": 9.848077527351588
+                }
+            ]
+        },
+        {
+            "leftImg": "flaxpond/fp_wetlab2.jpg",
+            "markers": [
+                {
+                    "text": "You Found Wolfie!",
+                    "type": "info",
+                    "x": -9.72789205526397,
+                    "y": -1.022442689345563,
+                    "z": 2.079116905836695
+                },
+                {
+                    "text": "About the Marine Science Center",
+                    "type": "info",
+                    "x": 0.26077338874415107,
+                    "y": -9.958533270118892,
+                    "z": -0.8715574264832116
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": -9.266190380358639,
+                    "y": 3.7437839612107005,
+                    "z": 0.34899496662638685
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": -9.266190380358639,
+                    "y": 3.7437839612107005,
+                    "z": -0.34899496662638685
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -7.403169332267976,
+                    "y": 6.665843644289062,
+                    "z": 0.8715574264832116
+                },
+                {
+                    "text": "Click the links to visit any part of the lab",
+                    "type": "info",
+                    "x": 1.794896736965411e-08,
+                    "y": 0.0,
+                    "z": 10.0
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 1.7364817923815528,
+                    "y": 0.0,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": 1.5038373459310275,
+                    "y": 0.8682408952910323,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": 0.8682408979902646,
+                    "y": 1.5038373443726252,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": 3.1168055029454974e-09,
+                    "y": 1.7364817923815528,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -0.8682408925918,
+                    "y": 1.50383734748943,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -1.5038373428142224,
+                    "y": 0.868240900689497,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": -1.7364817923815528,
+                    "y": 6.233611005890995e-09,
+                    "z": 9.848077527351588
+                }
+            ]
+        },
+        {
+            "leftImg": "flaxpond/fp_greenhouse.jpg",
+            "markers": [
+                {
+                    "text": "You Found Wolfie!",
+                    "type": "info",
+                    "x": 3.847950459042708,
+                    "y": 9.065203158830442,
+                    "z": 1.7364817747052723
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 7.426921222899837,
+                    "y": 6.687229894516071,
+                    "z": 0.34899496662638685
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": -3.9067161617186557,
+                    "y": -9.20364656985429,
+                    "z": -0.17452406417343258
+                },
+                {
+                    "text": "Click the links to visit any part of the lab",
+                    "type": "info",
+                    "x": 1.794896736965411e-08,
+                    "y": 0.0,
+                    "z": 10.0
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 1.7364817923815528,
+                    "y": 0.0,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": 1.5038373459310275,
+                    "y": 0.8682408952910323,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": 0.8682408979902646,
+                    "y": 1.5038373443726252,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": 3.1168055029454974e-09,
+                    "y": 1.7364817923815528,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -0.8682408925918,
+                    "y": 1.50383734748943,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -1.5038373428142224,
+                    "y": 0.868240900689497,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": -1.7364817923815528,
+                    "y": 6.233611005890995e-09,
+                    "z": 9.848077527351588
+                }
+            ]
+        },
+        {
+            "leftImg": "flaxpond/fp_fishlab.jpg",
+            "markers": [
+                {
+                    "text": "You Found Wolfie!",
+                    "type": "info",
+                    "x": -9.259131801421038,
+                    "y": -3.74093211017691,
+                    "z": 0.5233595618319595
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": -9.896648237145119,
+                    "y": 1.3908832386228007,
+                    "z": -0.34899496662638685
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": -9.878558250260904,
+                    "y": 1.3883408567030588,
+                    "z": 0.6975647366454645
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": 4.06736644278261,
+                    "y": 9.135454571072309,
+                    "z": -0.0
+                },
+                {
+                    "text": "Click the links to visit any part of the lab",
+                    "type": "info",
+                    "x": 1.794896736965411e-08,
+                    "y": 0.0,
+                    "z": 10.0
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 1.7364817923815528,
+                    "y": 0.0,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": 1.5038373459310275,
+                    "y": 0.8682408952910323,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": 0.8682408979902646,
+                    "y": 1.5038373443726252,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": 3.1168055029454974e-09,
+                    "y": 1.7364817923815528,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -0.8682408925918,
+                    "y": 1.50383734748943,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -1.5038373428142224,
+                    "y": 0.868240900689497,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": -1.7364817923815528,
+                    "y": 6.233611005890995e-09,
+                    "z": 9.848077527351588
+                }
+            ]
+        },
+        {
+            "leftImg": "flaxpond/fp_classroom.jpg",
+            "markers": [
+                {
+                    "text": "You Found Wolfie!",
+                    "type": "info",
+                    "x": -5.247621243496464,
+                    "y": 8.397949516764092,
+                    "z": 1.391731008020718
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": -9.156083587847874,
+                    "y": -3.3325419215167407,
+                    "z": 2.2495105409124703
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": -9.497531253991049,
+                    "y": -3.0859350039335376,
+                    "z": 0.5233595618319595
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": -8.461112095262163,
+                    "y": -3.247916660557796,
+                    "z": 4.226182612888303
+                },
+                {
+                    "text": "Click the links to visit any part of the lab",
+                    "type": "info",
+                    "x": 1.794896736965411e-08,
+                    "y": 0.0,
+                    "z": 10.0
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 1.7364817923815528,
+                    "y": 0.0,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": 1.5038373459310275,
+                    "y": 0.8682408952910323,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": 0.8682408979902646,
+                    "y": 1.5038373443726252,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": 3.1168055029454974e-09,
+                    "y": 1.7364817923815528,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -0.8682408925918,
+                    "y": 1.50383734748943,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -1.5038373428142224,
+                    "y": 0.868240900689497,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": -1.7364817923815528,
+                    "y": 6.233611005890995e-09,
+                    "z": 9.848077527351588
+                }
+            ]
+        },
+        {
+            "leftImg": "flaxpond/fp_shellfishlab.jpg",
+            "markers": [
+                {
+                    "text": "You Found Wolfie!",
+                    "type": "info",
+                    "x": 2.7144980643499244,
+                    "y": 9.466579704664031,
+                    "z": 1.7364817747052723
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": -9.041000655201225,
+                    "y": -4.215887876929339,
+                    "z": 0.6975647366454645
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -9.06307785730248,
+                    "y": -4.226182645422875,
+                    "z": -0.0
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -9.041000655201225,
+                    "y": -4.215887876929339,
+                    "z": -0.6975647366454645
+                },
+                {
+                    "text": "Click the links to visit any part of the lab",
+                    "type": "info",
+                    "x": 1.794896736965411e-08,
+                    "y": 0.0,
+                    "z": 10.0
+                },
+                {
+                    "number": 0,
+                    "sceneId": "lobby",
+                    "text": "Back to the Lobby",
+                    "type": "scene",
+                    "x": 1.7364817923815528,
+                    "y": 0.0,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 5,
+                    "sceneId": "classroom",
+                    "text": "Classroom",
+                    "type": "scene",
+                    "x": 1.5038373459310275,
+                    "y": 0.8682408952910323,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 3,
+                    "sceneId": "greenhouse",
+                    "text": "Greenhouse",
+                    "type": "scene",
+                    "x": 0.8682408979902646,
+                    "y": 1.5038373443726252,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 4,
+                    "sceneId": "fishlab",
+                    "text": "Fish Lab",
+                    "type": "scene",
+                    "x": 3.1168055029454974e-09,
+                    "y": 1.7364817923815528,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 1,
+                    "sceneId": "wetlab1",
+                    "text": "Wetlab 1",
+                    "type": "scene",
+                    "x": -0.8682408925918,
+                    "y": 1.50383734748943,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 2,
+                    "sceneId": "wetlab2",
+                    "text": "Wetlab 2",
+                    "type": "scene",
+                    "x": -1.5038373428142224,
+                    "y": 0.868240900689497,
+                    "z": 9.848077527351588
+                },
+                {
+                    "number": 6,
+                    "sceneId": "shellfishlab",
+                    "text": "Shellfish Lab",
+                    "type": "scene",
+                    "x": -1.7364817923815528,
+                    "y": 6.233611005890995e-09,
+                    "z": 9.848077527351588
+                }
+            ]
+        }
+    ]
+}
