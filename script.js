@@ -105,7 +105,7 @@ function loadSphere(room, num) {
             //marker.setAttribute('src',  "nextMarker.png")
             marker.setAttribute('radius', "0.2")
             marker.setAttribute('color', "#f10e0e")
-            marker.setAttribute('opacity', ".7")
+            marker.setAttribute('opacity', "1")
             marker.setAttribute("cursor-listener")
             marker.setAttribute("id", "marker" + id)
             marker.setAttribute('data-num', mkr.number);
